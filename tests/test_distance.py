@@ -1,4 +1,4 @@
-from mlproject.distance import haversine
+from mytoolbox.distance import haversine
 
 lat1, lon1 = 48.865070, 2.380009
 lat2, lon2 = 31.2364015, 121.4314601
